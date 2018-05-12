@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '43581'
     url: http://www.gutenberg.org/2009/agents/43581
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46028#Leaves-from-My-JournalThird-Book-of-the-Faith-Promoting-Series
 gutenberg_bookshelf: Latter Day Saints
 gutenberg_issued: '2014-06-19'
 gutenberg_type: Text
