@@ -1,0 +1,32 @@
+_repo: Leaves-from-My-JournalThird-Book-of-the-Faith-Promoting-Series_46028
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46028-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Woodruff, Wilford
+    alias: Allen, Lewis
+    birthdate: 1807
+    deathdate: 1898
+    gutenberg_agent_id: '43581'
+    url: http://www.gutenberg.org/2009/agents/43581
+description: ''
+gutenberg_bookshelf: Latter Day Saints
+gutenberg_issued: '2014-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46028'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Church of Jesus Christ of Latter-day Saints -- History -- 19th century'
+- !lcc 'BX'
+- !lcsh 'Church of Jesus Christ of Latter-day Saints -- Presidents'
+- !lcsh 'Mormon Church'
+- !lcsh 'Woodruff, Wilford, 1807-1898 -- Diaries'
+title: "Leaves from My Journal: Third Book of the Faith-Promoting Series\r\nDesigned\
+  \ for the Instruction and Encouragement of Young Latter-Day Saints"
+url: http://www.gutenberg.org/ebooks/46028
